@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b71b6777-2c02-44d6-aa82-880221c57e28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,8 +107,9 @@
     <session id="-1742376214">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -121,6 +122,16 @@
         <counts>
           <entry key="Markdown" value="1" />
           <entry key="Python" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="73" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="73" />
         </counts>
       </usages-collector>
     </session>
@@ -142,7 +153,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TensorflowUtils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
+            <state relative-caret-position="2220">
               <caret line="82" column="29" selection-start-line="82" selection-start-column="11" selection-end-line="82" selection-end-column="33" />
               <folding>
                 <element signature="e#58#81#0" expanded="true" />
@@ -154,7 +165,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FCN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="240">
               <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
@@ -166,8 +177,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_produce/get_batch_png.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="270">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -175,7 +186,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_produce/image_16_8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
+            <state relative-caret-position="360">
               <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
@@ -184,7 +195,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_produce/json_to_png.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="540">
               <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
             </state>
           </provider>
@@ -203,8 +214,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <first_editor relative-caret-position="360">
+                <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -250,7 +261,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1516" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -260,6 +271,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,16 +279,10 @@
               <item name="FCN-tensorflow-hzp" type="b2602c69:ProjectViewProjectNode" />
               <item name="FCN-tensorflow-hzp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FCN-tensorflow-hzp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FCN-tensorflow-hzp" type="462c0819:PsiDirectoryNode" />
-              <item name="Model_zoo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -444,9 +450,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1592" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="1592" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13006397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13113007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -523,28 +530,14 @@
     <entry file="file://$PROJECT_DIR$/Data_zoo/MIT_SceneParsing/ADEChallengeData2016/annotations/training/ADE_train_00000007.png" />
     <entry file="file://$PROJECT_DIR$/Data_zoo/MIT_SceneParsing/ADEChallengeData2016/annotations/training/ADE_train_00000002.png" />
     <entry file="file://$PROJECT_DIR$/Data_zoo/MIT_SceneParsing/ADEChallengeData2016/objectInfo150.txt" />
-    <entry file="file://$PROJECT_DIR$/Data_zoo_chushi/MIT_SceneParsing/ADEChallengeData2016/objectInfo150.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3914">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_zoo_chushi/MIT_SceneParsing/ADEChallengeData2016/sceneCategories.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60000">
-          <caret line="22198" column="16" lean-forward="true" selection-start-line="22198" selection-start-column="16" selection-end-line="22198" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_zoo_chushi/MIT_SceneParsing/ADEChallengeData2016/objectInfo150.txt" />
+    <entry file="file://$PROJECT_DIR$/Data_zoo_chushi/MIT_SceneParsing/ADEChallengeData2016/sceneCategories.txt" />
     <entry file="file://$PROJECT_DIR$/Data_zoo/MIT_SceneParsing/ADEChallengeData2016/MITSceneParsing.pickle" />
     <entry file="file://$PROJECT_DIR$/logs/inp_5.png" />
     <entry file="file://$PROJECT_DIR$/logs/gt_5.png" />
     <entry file="file://$PROJECT_DIR$/logs/gt_6.png" />
     <entry file="file://$PROJECT_DIR$/logs/pred_5.png" />
-    <entry file="file://$PROJECT_DIR$/Data_zoo/MIT_SceneParsing/ADEChallengeData2016/annotations/training/shang_train_0001.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_zoo/MIT_SceneParsing/ADEChallengeData2016/annotations/training/shang_train_0001.png" />
     <entry file="file://$PROJECT_DIR$/Data_zoo/MIT_SceneParsing/ADEChallengeData2016/sceneCategories.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1784">
@@ -552,13 +545,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data_zoo/MIT_SceneParsing/MITSceneParsing.pickle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-278">
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_zoo/MIT_SceneParsing/MITSceneParsing.pickle" />
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1013586911/cv2/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -566,27 +553,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/model.ckpt-0.data-00000-of-00001">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/checkpoint">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Model_zoo/imagenet-vgg-verydeep-19.mat">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-1800" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/model.ckpt-0.data-00000-of-00001" />
+    <entry file="file://$PROJECT_DIR$/logs/checkpoint" />
+    <entry file="file://$PROJECT_DIR$/Model_zoo/imagenet-vgg-verydeep-19.mat" />
     <entry file="file://$PROJECT_DIR$/read_MITSceneParsingData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
           <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
-          <folding>
-            <element signature="e#17#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Data_produce/ceshi.py" />
+    <entry file="file://$PROJECT_DIR$/Data_produce/create_24wei.py" />
+    <entry file="file://$PROJECT_DIR$/restore_model_test.py" />
+    <entry file="file://$PROJECT_DIR$/seg_finally.py" />
     <entry file="file://$PROJECT_DIR$/BatchDatsetReader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -599,7 +579,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TensorflowUtils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="2220">
           <caret line="82" column="29" selection-start-line="82" selection-start-column="11" selection-end-line="82" selection-end-column="33" />
           <folding>
             <element signature="e#58#81#0" expanded="true" />
@@ -607,37 +587,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data_produce/ceshi.py">
+    <entry file="file://$PROJECT_DIR$/FCN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_produce/create_24wei.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="240">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data_produce/get_batch_png.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="270">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data_produce/image_16_8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
+        <state relative-caret-position="360">
           <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data_produce/json_to_png.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="540">
           <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
         </state>
       </provider>
@@ -649,38 +625,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/restore_model_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4385">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seg_finally.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#40#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FCN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <first_editor relative-caret-position="360">
+            <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
